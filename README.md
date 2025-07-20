@@ -48,7 +48,7 @@ An AI-powered comprehensive tool for scraping, analyzing, and generating insight
 ### Installation
 
 1. Clone or download the project files
-2. Ensure `Project.ipynb` is in your working directory
+2. Ensure `Best Buy Review Scraper and Analyzer.ipynb` is in your working directory
 3. Install all required dependencies
 4. Start Ollama service:
    ```bash
@@ -79,7 +79,7 @@ The tool creates organized output directories:
 
 ```
 C:\Path\
-├── Project.ipynb           # Main analysis notebook
+├── Best Buy Review Scraper and Analyzer.ipynb           # Main analysis notebook
 ├── README.md              # This file
 ├── outputs/
 │   ├── csv/               # Raw and processed data
