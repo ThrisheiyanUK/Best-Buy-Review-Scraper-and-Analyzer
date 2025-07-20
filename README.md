@@ -78,7 +78,7 @@ An AI-powered comprehensive tool for scraping, analyzing, and generating insight
 The tool creates organized output directories:
 
 ```
-E:\Intern\
+C:\Path\
 ├── Project.ipynb           # Main analysis notebook
 ├── README.md              # This file
 ├── outputs/
