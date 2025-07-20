@@ -249,10 +249,6 @@ This is an internship project, but suggestions and improvements are welcome:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is developed as part of an internship program. Please check with the organization for usage rights and licensing terms.
-
 ## 🎯 Future Enhancements
 
 - **Multi-platform Support**: Extend to Amazon, Walmart, etc.
